@@ -10,6 +10,7 @@ function NavBar() {
         marginBottom: "12px",
       }}
     >
+      
       <NavLink style={{ marginRight: "10px" }} to="/">
         Home
       </NavLink>
